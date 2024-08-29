@@ -18,7 +18,7 @@ header {
    background-size: cover;
    background-position: center; 
    background-repeat: no-repeat; 
-   clip-path: polygon(0% 0%, 100% 0%, 100% 95%, 0 88%); 
+   clip-path: polygon(0% 0%, 100% 0%, 100% 85%, 0 90%); 
    min-height: 80vh;
 }
 
